@@ -136,7 +136,7 @@ class _JueguitoState extends State<Jueguito> {
       (jugadas[2][0] == jugador)) {
     return Colors.green; // Diagonal secundaria
   }
-  return Colors.amber; // Color predeterminado
+  return Colors.amber; 
 }
 
 
