@@ -8,7 +8,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:juegoo/main.dart';
 import 'package:juegoo/ui/app.dart';
 
 void main() {
